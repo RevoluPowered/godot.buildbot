@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d946dd5c-8ae1-4322-b357-7e78fbe9913e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/godot.buildbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/buildbot.tac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/FETCH_HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/applypatch-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/post-update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/pre-applypatch.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/pre-commit.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/pre-push.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/pre-rebase.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/pre-receive.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/hooks/update.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/info/exclude" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/07/6cbedd53c9c9a5aec23971decac6f7d8484f74" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/10/351252b96bdffd73baaf5e6e0dd390291a5b14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/1c/f498ab69e15d9d415e665713de69ba0bf1f72b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/27/2b294ac75e79ca81cc9ffb0eed7b263381d9c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/29/51feb56b7947a27826ea324f624d270cc464ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/2e/11467c53eb8d0c33d4e00884627cf6bd7d2661" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/38/41c8b6d3839b415b0e75feded3411b8c440a2e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/3d/addc871fe00e20d9ebc62d3039271ef9a2a423" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/45/cbae0e498719e3ed206e5b269ae801e04b8725" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/55/351e6cb2a6890e47640d154f58940124ea4073" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/58/33b77b72a185f1a8001bd9ce83f9e6b5cfc2af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/5e/0fecdc3d33e5665a78f5de3d59554313acfa1d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/73/00a08cecc0413d97ad9acda63d72a82ce46f51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/7b/bc71c09205c78d790739d246bbe4f9f1881c17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/7f/8e719e30f3f6b98558541d21dc8b589a4131be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/89/a6eaceb64d7f7120e90d13a98c4316d2383095" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/8a/a8d45c1aa4b91a776fc7a0aa16be9527e4f96c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/a9/fb05862d026e05a5e6b0c2bc86bdfc1151ee38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/b4/6412d4469128135b3fa9993cd09aae6ee1d933" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/c1/2f690473198171434cd32a2057e6e3cda2c9af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/c4/192631f25b34d77a7f159aa0da0e3ae99c4ef4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/c5/20c2fe5d356caad96991876d58300c67d4e3bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/ce/6ab3a6ed93e20fd931b768d4c10ad2394ae4dc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/db/cdfb06998866aa9ea7e1de24f1df04ecc8fc42" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/e6/491e7d9ef436c2764efa2310d511c8a94a5e02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/objects/f4/a7d378b5fae7466542efe8db8982fd6ac953f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/gitpoller-workdir/refs/buildbot/git%3A%2F%2Fgithub.com%2Fbuildbot%2Fhello-world.git/master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/http.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/master.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/state.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/twistd.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/twistd.pid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restart.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/buildbot.tac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/info/admin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/info/host" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/runtests/build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/twistd.hostname" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/twistd.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker/twistd.pid" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RqaaRyxt9B6uxHaFmqQujmvL2L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d946dd5c-8ae1-4322-b357-7e78fbe9913e" name="Default Changelist" comment="" />
+      <created>1570397142271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570397142271</updated>
+      <workItem from="1570397150704" duration="1148000" />
+      <workItem from="1570398317275" duration="967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
